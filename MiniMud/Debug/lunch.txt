@@ -6,13 +6,12 @@ WIN_ITEM: bottle
 WIN_TEXT: Joiner arrives, scarfs down the lunch, and pats you on your head, smiling. You win!
 
 REMARK: ------------------ ROOM 0 ---------------------
-ROOM: Burger Fi
-There are tables and chairs for eating, and a bar to order food. You've heard they have a good Tuesday Special.
-ITEM: 1
-It is a big, juicy cheese burger with extra mustard.
-ITEM: 2
-It is a generous order of greasy fries, smothered in ketchup.
-SOUTH: 5
+ROOM: Outside Marksbury
+You are standing outside the Marksbury building at the east entrance. Buttercups are blooming along next to the wall. A glass doorway leads north inside the building, while the sidewalk leads east toward a parking lot.
+ITEM: cell phone
+Its your cell phone. There is a text from Joiner: GET ME SOME LUNCH! BURGER, FRIES, AND SOMETHING TO DRINK. DROP IT OFF IN THE FIRST FLOOR MARKSBURY CONFERENCE ROOM!
+NORTH: 9  
+EAST:  1  
 
 REMARK: ------------------ ROOM 1 ---------------------
 ROOM: small street
