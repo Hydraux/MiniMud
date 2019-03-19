@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniMud", "MiniMud\MiniMud.vcxproj", "{44351358-1D67-4C62-A558-AB85B9EE3FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Debug|x64.ActiveCfg = Debug|x64
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Debug|x64.Build.0 = Debug|x64
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Debug|x86.ActiveCfg = Debug|Win32
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Debug|x86.Build.0 = Debug|Win32
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Release|x64.ActiveCfg = Release|x64
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Release|x64.Build.0 = Release|x64
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Release|x86.ActiveCfg = Release|Win32
+		{44351358-1D67-4C62-A558-AB85B9EE3FD8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF7081CB-73B1-46B3-810A-E037EBE67D72}
+	EndGlobalSection
+EndGlobal
